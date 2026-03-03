@@ -55,5 +55,5 @@ How to Run
 
 Author
 
-Tanmay Sachin Gogawale
+Tanmay Gogawale
 Data Analytics Intern
